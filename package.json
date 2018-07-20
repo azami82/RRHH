@@ -1,0 +1,31 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "smart contract for RRHH",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azami82/RRHH.git"
+  },
+  "keywords": [
+    "rrhh"
+  ],
+  "author": "VLG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azami82/RRHH/issues"
+  },
+  "homepage": "https://github.com/azami82/RRHH#readme",
+  "devDependencies": {
+    "ganache-cli": "^6.1.6"
+  },
+  "dependencies": {
+    "truffle-contract": "^3.0.6"
+  }
+}
